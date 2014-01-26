@@ -1,4 +1,4 @@
-TTBlue VST Examples
+Jamoma VST Examples
 Reflective C++ API for realtime processing
 _________________________________________________________________
 

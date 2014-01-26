@@ -167,7 +167,7 @@ bool BlueSaturation::getProductString(char* text)
 
 bool BlueSaturation::getVendorString(char* text)
 {
-	vst_strncpy(text, "TTBlue (ttblue.org)", kVstMaxVendorStrLen);
+	vst_strncpy(text, "Jamoma (jamoma.org)", kVstMaxVendorStrLen);
 	return true;
 }
 
